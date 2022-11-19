@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "northwind": "json-server ./northwind-db.json -p 7777",
     "placeholder": "json-server ./placeholder-db.json -p 8888"
   },

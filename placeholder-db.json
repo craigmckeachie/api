@@ -39878,19 +39878,7 @@
   "todos": [
     {
       "userId": 1,
-      "title": "rake leaves",
-      "completed": true,
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "title": "make kids lunches",
-      "completed": true,
-      "id": 2
-    },
-    {
-      "userId": 1,
-      "title": "Walk the Dog",
+      "title": "take a shower",
       "completed": false,
       "id": 3
     },
@@ -39902,7 +39890,7 @@
     },
     {
       "userId": 1,
-      "title": "Brush Teeth (Don't forget to take cap off)",
+      "title": "brush teeth (don't forget to take cap off)",
       "completed": false,
       "id": 5
     },
@@ -39917,6 +39905,36 @@
       "title": "another one (DJ KAHLED!)",
       "completed": true,
       "id": 7
+    },
+    {
+      "userId": 1,
+      "title": "fold clothes",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "title": "walk dog",
+      "completed": false,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "title": "test",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "title": "another one",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "catch brian up",
+      "completed": false,
+      "id": 12
     }
   ],
   "courses": [
@@ -40063,6 +40081,45 @@
       "instructor": "Brittany",
       "startDate": "Aug 1",
       "numDays": 5
+    },
+    {
+      "dept": "sd",
+      "courseNum": "",
+      "courseName": "",
+      "instructor": "",
+      "startDate": "",
+      "numDays": "",
+      "id": 17
+    },
+    {
+      "dept": "dfd",
+      "courseNum": "",
+      "courseName": "",
+      "instructor": "",
+      "startDate": "",
+      "numDays": "",
+      "id": 18
+    },
+    {
+      "dept": "f",
+      "courseNum": "",
+      "courseName": "",
+      "instructor": "",
+      "startDate": "",
+      "numDays": "",
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "dept": "dfs",
+      "courseNum": "d",
+      "courseName": "d",
+      "instructor": "fd",
+      "startDate": "",
+      "numDays": "1",
+      "id": 21
     }
   ]
 }
