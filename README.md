@@ -12,15 +12,15 @@ npm run placeholder
 
 ```
 Resources
-  http://localhost:8888/posts
-  http://localhost:8888/comments
-  http://localhost:8888/albums
-  http://localhost:8888/photos
-  http://localhost:8888/users
-  http://localhost:8888/todos
+  http://localhost:3000/posts
+  http://localhost:3000/comments
+  http://localhost:3000/albums
+  http://localhost:3000/photos
+  http://localhost:3000/users
+  http://localhost:3000/todos
 
   Home
-  http://localhost:8888
+  http://localhost:3000
 ```
 
 ### OR
@@ -33,17 +33,17 @@ npm run northwind
 
 ```
 Resources
-  http://localhost:7777/categories
-  http://localhost:7777/customers
-  http://localhost:7777/employees
-  http://localhost:7777/orders
-  http://localhost:7777/products
-  http://localhost:7777/regions
-  http://localhost:7777/shippers
-  http://localhost:7777/suppliers
+  http://localhost:4000/categories
+  http://localhost:4000/customers
+  http://localhost:4000/employees
+  http://localhost:4000/orders
+  http://localhost:4000/products
+  http://localhost:4000/regions
+  http://localhost:4000/shippers
+  http://localhost:4000/suppliers
 
   Home
-  http://localhost:7777
+  http://localhost:4000
 ```
 
 ## Stopping
