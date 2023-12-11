@@ -14,7 +14,7 @@
 ## Starting
 
 1. Open a terminal
-1. Change your directory to `learntocode`
+1. Change your directory to `learntocode\api`
 1. Run the API
 
    ```
