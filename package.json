@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node placeholder-server.js",
     "northwind": "node northwind-server.js",
-    "placeholder": "node placeholder-server.js"
+    "placeholder": "node placeholder-server.js",
+    "courses": "node courses-server.js"
   },
   "keywords": [],
   "author": "",

@@ -8,5 +8,5 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port, () =>
-  console.log(`api running on  http://localhost:${port}`)
+  console.log(`placeholder api running on  http://localhost:${port}`)
 );
